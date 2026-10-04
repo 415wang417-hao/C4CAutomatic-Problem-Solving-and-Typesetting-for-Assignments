@@ -32,7 +32,7 @@ python scripts/pipeline.py 你的作业.md 输出目录
 例如：
 
 ```bash
-python scripts/pipeline.py lenovo_C4C_作业原件.md C:\Users\lenovo\Desktop\lenovo_C4C_交付物\作业解答
+python scripts/pipeline.py lenovo_C4C_作业原件.md C:\Users\lenovo\Desktop\C4C_作业自动求解与排版_交付物\lenovo_C4C_交付物\作业解答
 ```
 
 执行后，`输出目录` 中将生成：
@@ -84,7 +84,7 @@ A: 技能会如实标记"无法求解"，不会瞎编。这比硬凑答案更有
 
 ## 交付物清单
 
-本技能挑战的完整交付物（7 件）：
+本技能挑战的完整交付物（8 件）：
 
 | # | 文件 | 说明 |
 |---|------|------|
@@ -94,7 +94,7 @@ A: 技能会如实标记"无法求解"，不会瞎编。这比硬凑答案更有
 | 4 | `lenovo_C4C_output.pdf` | 排版交付物（4 页） |
 | 5 | `lenovo_C4C_验证报告.md` | 正确性验证（100%） |
 | 6 | `lenovo_C4C_教学说明.md` | 教学文档（使用说明） |
-| 7 | `lenovo_C4C_AI日志.md` | AI 使用日志（12 项迭代） |
+| 7 | `lenovo_C4C_AI日志.md` | AI 使用日志（9 项迭代） |
 | 8 | `lenovo_C4C_拿来说明.md` | 本文件（使用说明） |
 
 ---
